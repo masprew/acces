@@ -1,0 +1,16 @@
+{
+  "1": {
+    "name": "Admin",
+    "plan": "Owner",
+    "expires": "2026-12-31"
+  },
+  "2": {
+    "name": "Admin 2",
+    "plan": "Reseller",
+    "expires": "2026-06-30"
+  },
+  "3": {
+    "name": "Admin 3",
+    "plan": "Owner"
+  }
+}
